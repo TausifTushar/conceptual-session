@@ -7,4 +7,33 @@
     cursor: url("https://img.freepik.com/free-vector/hand-drawn-eco-cup-illustration_23-2149505104.jpg?size=626&ext=jpg&ga=GA1.1.741920901.1688621402"),auto;
 
 }
+.box1{
+    padding: 20px;
+    background-color: aqua;
+    width: 150px;
+}
+.container{
+    display: flex;
+    justify-content:center;
+    flex-direction:row-reverse;
+
+}
+    
+    
+
+.box2{
+    background-color: rgb(234, 231, 64);
+    padding: 20px;
+    width: 150px;
+}
+.box3{
+    background-color: rgb(162, 88, 88);
+    padding: 20px;
+    width: 150px;
+}
+.box4{
+    background-color: rgb(229, 153, 153);
+    padding: 20px;
+    width: 150px;
+}
     
